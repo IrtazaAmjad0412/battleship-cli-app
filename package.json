@@ -1,0 +1,23 @@
+{
+  "name": "battleship-cli-app",
+  "version": "1.0.0",
+  "description": "## Introduction",
+  "main": "battleship.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrtazaAmjad0412/battleship-cli-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrtazaAmjad0412/battleship-cli-app/issues"
+  },
+  "homepage": "https://github.com/IrtazaAmjad0412/battleship-cli-app#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
